@@ -1,0 +1,25 @@
+# Created by https://www.gitignore.io
+
+### specific files ###
+
+### Java ###
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### IDE ###
+.classpath
+.project
+.settings/
+dist/
+lib/
+
+## IDEA specific ##
+#IntelliJ
+.idea/
+*.iml
+# IntelliJPlugin-specific files:
+/out/
